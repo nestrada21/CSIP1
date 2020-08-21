@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>HTML Cheat Sheet</title>
+    </head>
+    <body>
+      <!--Headings-->
+      <h1>Headuing One</h1>
+      <h2>Heading Two</h2>
+      <h2>Heading Three</h3>
+      <h2>Heading Four</h4>
+      <h2>Heading Five</h5>
+      <h2>Heading Six</h6>
+
+      <!--Paragraph -->
+      <p>
+          lorem ipsum dolor sit amet, consectetur
+          adipisicing elit, sed do eiusmod
+          tempor incididint ut labore et dolore.
+
+      </p>
+<p>
+          lorem ipsum dolor sit amet, consectetur
+          adipisicing elit, sed do eiusmod
+          tempor incididint ut labore et dolore.
+
+      </p>
+    </body>
+</html>
